@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@serwist/next": "latest",
-    "next": "14.2.25",
+    "next": "14.2.26",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "serwist": "latest",
